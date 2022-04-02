@@ -1,7 +1,11 @@
 # PyBer_Analysis
 
 ## Overview 
- The purpose of this analysis is to create a summary DataFrame of the ride-sharing data by city type(urban, sub urban and rural), and create a multiple-line graph that shows the total weekly fares for each city type. After that, a summary will be drawn to discuss on how the data differs by city type and suggest how to improve the revene by narrow the disparity among those differences.
+The purpose of this analysis is to help PyBer improve access to ride-services and determine affordability for underserved neighborhoods. To achieve it, we will perform an exploratory analysis on data in some very large csv files, then create a summary DataFrame and several types of visualizations to tell a compellng story about the data. 
+
+We will write python scripts using panda's libraries, the jupyter notebook and matplotlib to create a variety of charts that showcase the relationship between the type of city, and the number of drivers and riders, as well as the percentage of total fares, riders and drivers by types of city.
+
+Fianlly, a summary will be drawn to discuss on how the data differs by city type and suggest how to improve the revene by narrow the disparity among those differences.
 
  ## Results
 
